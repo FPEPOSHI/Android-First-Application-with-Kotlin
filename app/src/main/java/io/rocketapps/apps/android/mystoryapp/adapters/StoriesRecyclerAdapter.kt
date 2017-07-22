@@ -51,6 +51,9 @@ class StoriesRecyclerAdapter : RecyclerView.Adapter<StoriesRecyclerHolder>{
             StoryClass.HISTORY_SEARCH -> {
                 view = LayoutInflater.from(mContext).inflate(R.layout.recycler_row_search_history, parent, false)
             }
+            StoryClass.HOME -> {
+                view = LayoutInflater.from(mContext).inflate(R.layout.recycler_row_home_item, parent, false)
+            }
 
         }
 

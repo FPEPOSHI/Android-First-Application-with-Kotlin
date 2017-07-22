@@ -16,4 +16,5 @@
     <color name="color_8">#F0B88F</color>
     <color name="great_black">#2e2e2e</color>
     <color name="great_black_transparent50">#7d2e2e2e</color>
+    <color name="great_black_transparent75">#4b2e2e2e</color>
 </resources>

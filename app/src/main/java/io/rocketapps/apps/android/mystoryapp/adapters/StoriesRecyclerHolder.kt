@@ -24,6 +24,10 @@ class StoriesRecyclerHolder(view: View, viewType: Int) : RecyclerView.ViewHolder
 
             txtTitle.text = story.title
 
+        }else if(story.viewType == StoryClass.HOME){
+
+            txtTitle.text = story.title
+
         }
     }
 
@@ -32,6 +36,9 @@ class StoriesRecyclerHolder(view: View, viewType: Int) : RecyclerView.ViewHolder
             txtTitle = view.findViewById(R.id.story_title) as TextView
 
         }else if(viewType == StoryClass.HISTORY_SEARCH){
+            txtTitle = view.findViewById(R.id.story_title) as TextView
+
+        }else if(viewType == StoryClass.HOME){
             txtTitle = view.findViewById(R.id.story_title) as TextView
 
         }

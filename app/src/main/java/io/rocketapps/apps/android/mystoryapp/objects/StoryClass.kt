@@ -13,6 +13,7 @@ class StoryClass {
     companion object {
         const val POPULAR_SEARCH: Int = 100
         const val HISTORY_SEARCH: Int = 110
+        const val HOME: Int = 120
     }
 
 
