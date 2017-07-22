@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DEE6EC</color>
+    <color name="colorPrimaryDark">#B4C4CD</color>
+    <color name="colorAccent">#9bb8e9</color>
+    <color name="background">#F2F5F8</color>
+    <color name="white">#F2F5F8</color>
+    <color name="badge_bacground">#DEE6EC</color>
+    <color name="color_1">#A4CADC</color>
+    <color name="color_2">#AFD3E3</color>
+    <color name="color_3">#CADAE3</color>
+    <color name="color_4">#A1A2A4</color>
+    <color name="color_5">#E7DDD6</color>
+    <color name="color_6">#D0B9B3</color>
+    <color name="color_7">#9BB8E9</color>
+    <color name="color_8">#F0B88F</color>
+    <color name="great_black">#2e2e2e</color>
+    <color name="great_black_transparent50">#7d2e2e2e</color>
+</resources>
